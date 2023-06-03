@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en GitHub
+Jupyter notebook del curso de analista de datos de argentina programa 4.0
